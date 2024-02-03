@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Jasmine></h1>
+<h1 align="center">Hi👋, I'm Jasmine</h1>
 <!--📫 How to reach me: **tangjasmine266@gmail.com**-->
 <!--
 **tjasmiine/tjasmiine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
