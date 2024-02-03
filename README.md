@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi👋, I'm Jasmine
 
+📫 How to reach me: **tangjasmine266@gmail.com**
 <!--
 **tjasmiine/tjasmiine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
